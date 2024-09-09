@@ -20,7 +20,7 @@ This project is a simple and intuitive To-Do List application built using HTML, 
 ## How to Use
 
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Manik2188/Todo-List-App.git
 
 2. Open the project:
    Navigate to the project directory.
